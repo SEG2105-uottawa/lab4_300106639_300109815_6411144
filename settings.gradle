@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "ProfileManager"
+rootProject.name = "My Application"
