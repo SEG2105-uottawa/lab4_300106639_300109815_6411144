@@ -1,12 +1,14 @@
 <resources>
-    <string name="app_name">ProfileManager</string>
-    <string name="textview">TextView</string>
-    <string name="please_enter_a_name">Please enter a name</string>
-    <string name="please_enter_a_name">Please enter a name</string>
-    <string name="soccer_team_manager">Soccer Team Manager</string>
-    <string name="textview">TextView</string>
-    <string name="open_in_google_maps">Open in Google Maps</string>
-    <string name="team_name">Team Name</string>
-    <string name="team_address">Team Address</string>
-    <string name="please_enter_a_zip_code">Please enter a ZIP code</string>
+    <string name="app_name">My Application</string>
+    <string name="app_title">Soccer Team Manager</string>
+
+    <string name="name_hint">(Please enter a team name)</string>
+    <string name="name_label">Team Name</string>
+    <string name="address_hint">(Please enter a postal code)</string>
+    <string name="address_label">Team Address</string>
+
+    <string name="button_text">OPEN IN GOOGLE MAPS</string>
+
+    <string name="new_avatar_title">Select a new Avatar</string>
+    <string name="new_avatar_button">LOAD FROM PHONE</string>
 </resources>
